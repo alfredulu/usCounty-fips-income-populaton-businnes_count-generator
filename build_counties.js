@@ -2,7 +2,7 @@ const axios = require("axios");
 const { createObjectCsvWriter } = require("csv-writer");
 const fs = require("fs");
 
-const API_KEY = "85ffa85fca2a7bda6c6d1f9ba673a698a9c59bcd"; // get from census.gov
+const API_KEY = ""; // get from census.gov
 
 /* ─────────────────────────────────────────────
    LOAD BUSINESS DATA (CBP FORMAT)
